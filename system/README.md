@@ -1,16 +1,16 @@
-# 🏫 Sistema Académico - Gestión de Estudiantes y Profesores
+#  Sistema Académico - Gestión de Estudiantes y Profesores
 
 Sistema en Python para la gestión integral de estudiantes y profesores mediante una interfaz de consola (CLI).
 
-## 🚀 Características
+##  Características
 
-* 🎓 Gestión de estudiantes
-* 👨‍🏫 Gestión de profesores
-* 📊 Estadísticas generales
-* 💾 Persistencia de datos en archivos JSON
-* 🧩 Arquitectura modular y escalable
+*  Gestión de estudiantes
+*  Gestión de profesores
+*  Estadísticas generales
+*  Persistencia de datos en archivos JSON
+*  Arquitectura modular y escalable
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 src/
@@ -22,7 +22,7 @@ src/
 └── data/                # Archivos de datos
 ```
 
-## ⚙️ Instalación
+## Instalación
 
 1. Clona el repositorio:
 
@@ -45,7 +45,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-## ▶️ Uso
+##  Uso
 
 Ejecuta el sistema con:
 
@@ -53,7 +53,7 @@ Ejecuta el sistema con:
 python -m src.main
 ```
 
-## 🧠 Arquitectura
+##  Arquitectura
 
 El proyecto sigue una separación por capas:
 
@@ -62,7 +62,7 @@ El proyecto sigue una separación por capas:
 * **Storage** → Manejo de persistencia (JSON)
 * **UI** → Interfaz de usuario basada en consola
 
-## 📊 Funcionalidades principales
+##  Funcionalidades principales
 
 ### Estudiantes
 
@@ -80,12 +80,12 @@ El proyecto sigue una separación por capas:
 * Estadísticas generales
 * Persistencia automática
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 * Python 3.x
 * JSON (para almacenamiento)
 
-## 🧪 Testing
+##  Testing
 
 Carpeta disponible:
 
@@ -95,14 +95,14 @@ tests/
 
 (Puede expandirse con pytest o unittest)
 
-## 📌 Mejoras futuras
+##  Mejoras futuras
 
 * Interfaz gráfica (GUI)
 * API REST
 * Base de datos (SQLite/PostgreSQL)
 * Autenticación de usuarios
 
-## 👨‍💻 Autor
+##  Autor
 
 Proyecto académico / personal
 
